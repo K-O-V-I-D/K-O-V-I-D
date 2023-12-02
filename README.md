@@ -93,3 +93,46 @@
 
 <div style="display: flex; flex-wrap: wrap;">
 
+
+## Projects 🌐
+
+#### 🧠 Analytical-Portal-for-Police-Department.github.io
+
+[Analytical-Portal-for-Police-Department.github.io](https://k-o-v-i-d.github.io/Analytical-Portal-for-Police-Department.github.io/) Citizens can easily give feedback. Mobile web browser-based interface. Officers can get details of quality of service of any police station by analysis of related data.<br/>
+GitHub [Repo](https://github.com/K-O-V-I-D/Analytical-Portal-for-Police-Department.github.io)
+##### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html&logoColor=61DAFB" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css&logoColor=61DAFB" alt="CSS" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="JAVA" />
+</p>
+
+#### 💬 No-Proxy-Attendance.github.io
+
+[No-Proxy-Attendance.github.io](https://github.com/K-O-V-I-D/No-Proxy-Attendance.github.io) 
+A hassle-free solution for marking attendance within college network.<br/>
+GitHub [Repo](https://github.com/K-O-V-I-D/No-Proxy-Attendance.github.io)
+##### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Css-000?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&badgeColor=010101&logoColor=white" alt="PYTHON" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html&logoColor=F7DF1E" alt="HTML" />
+</p>
+
+#### 💪 CIAM
+[CIAM](https://github.com/K-O-V-I-D/CIAM) Container Identity Access Management Protocol<br/>
+GitHub [Repo](https://github.com/K-O-V-I-D/CIAM)
+##### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express&logoColor=white" a<img src="https://img.shields.io/badge/-Css-000?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&badgeColor=010101&logoColor=white" alt="PYTHON" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html&logoColor=F7DF1E" alt="HTML" />
+</p>
+
