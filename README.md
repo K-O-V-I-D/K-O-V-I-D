@@ -53,19 +53,43 @@
 
 ### 🛠  Tech Stack
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/cpp/cpp.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/html/html.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/python/python.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/java/java.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/git/git.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/github/github.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/netlify/netlify.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/docker/docker.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/aws/aws.png" style="max-width:100%;"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></code>
-<br/>
+<div style="display: flex; flex-wrap: wrap;">
+
+  <!-- First row of images -->
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/cpp/cpp.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/html/html.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql/sql.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/python/python.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/java/java.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/git/git.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/github/github.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/aws/aws.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/docker/docker.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/bootstrap/bootstrap.png" style="max-width:100%;"></code>
+
+</div>
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap;">
+
+  <!-- Second row of images -->
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/burpsuite.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/kali.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/python.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/metasploit.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/nodejs.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/matlab.png" style="max-width:100%;"></code>
+  <code><img height="30" src="./assets/wireshark.png" style="max-width:100%;"></code>
+
+
+</div>
+<br>
+
+<div style="display: flex; flex-wrap: wrap;">
+
