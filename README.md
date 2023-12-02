@@ -136,3 +136,12 @@ GitHub [Repo](https://github.com/K-O-V-I-D/CIAM)
   <img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html&logoColor=F7DF1E" alt="HTML" />
 </p>
 
+
+<h3 align="left">Reach out to me</h3>
+<p align="left">
+<a href="https://twitter.com/TiwariKovid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="K-O-V-I-D"height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kovid-tiwari-82a178224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="K-O-V-I-D" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/"K-O-V-I-D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="K-O-V-I-D" height="30" width="40" /></a>
+<a href="https://leetcode.com/KOVIDTIWARI/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="K-O-V-I-D" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kovidtiwari19/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="K-O-V-I-D" height="30" width="40" /></a>
+</p>
