@@ -96,7 +96,7 @@
 
 ## Projects 🌐
 
-#### 🧠 Analytical-Portal-for-Police-Department.github.io
+#### 🧠 Analytical Portal for Police Department
 
 [Analytical-Portal-for-Police-Department.github.io](https://k-o-v-i-d.github.io/Analytical-Portal-for-Police-Department.github.io/) Citizens can easily give feedback. Mobile web browser-based interface. Officers can get details of quality of service of any police station by analysis of related data.<br/>
 GitHub [Repo](https://github.com/K-O-V-I-D/Analytical-Portal-for-Police-Department.github.io)
