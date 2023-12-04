@@ -110,7 +110,7 @@ GitHub [Repo](https://github.com/K-O-V-I-D/Analytical-Portal-for-Police-Departme
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="JAVA" />
 </p>
 
-#### 💬 No-Proxy-Attendance.github.io
+#### 💬 No Proxy Attendance
 
 [No-Proxy-Attendance.github.io](https://github.com/K-O-V-I-D/No-Proxy-Attendance.github.io) 
 A hassle-free solution for marking attendance within college network.<br/>
