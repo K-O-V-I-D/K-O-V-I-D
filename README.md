@@ -32,7 +32,6 @@
 
 <br/> 
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K-O-V-I-D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
