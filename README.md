@@ -1,3 +1,7 @@
+<div align="center">
+
+![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
+
 # KOVID-TIWARI
 
 <div align="center">
