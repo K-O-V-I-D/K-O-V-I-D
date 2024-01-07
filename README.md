@@ -2,7 +2,6 @@
 
 ![MasterHead](https://share.creavite.co/0J4IMZjTmWCvjwFO.gif)
 
-# KOVID-TIWARI
 
 <div align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
