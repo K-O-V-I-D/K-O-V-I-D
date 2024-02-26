@@ -37,6 +37,18 @@
 
 ## GitHub Stats📊  
 
+<br/> 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K-O-V-I-D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-O-V-I-D)](https://github.com/K-O-V-I-D/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-O-V-I-D&layout=compact)](https://github.com/K-O-V-I-D/github-readme-stats)
+
 
 ## 🛠  Tech Stack
 
