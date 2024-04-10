@@ -21,10 +21,7 @@
 
 ## Portfolio
 
-<h2>
-(Use desktop mode for better experience)
-[Portfolio](k-o-v-i-d.github.io/Portfolio.github.io/)
-</h2>
+(Use desktop mode for better experience) [Portfolio](k-o-v-i-d.github.io/Portfolio.github.io/)
 
 
 ## Rapidfire  
