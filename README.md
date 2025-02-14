@@ -21,7 +21,7 @@
 
 ## Portfolio
 
-(Use desktop mode for better experience) [Portfolio](https://k-o-v-i-d.github.io/Portfolio.github.io/)
+[Portfolio]([https://k-o-v-i-d.github.io/Kovid-Tiwari.github.io/])
 
 
 ## Rapidfire  
