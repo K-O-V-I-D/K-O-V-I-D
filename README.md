@@ -21,7 +21,7 @@
 
 ## Portfolio
 
-[Portfolio]([https://k-o-v-i-d.github.io/Kovid-Tiwari.github.io/])
+[Portfolio](https://k-o-v-i-d.github.io/Kovid-Tiwari.github.io/)
 
 
 ## Rapidfire  
